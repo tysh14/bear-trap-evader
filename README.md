@@ -8,9 +8,9 @@ Only need to install pygame
 Run run_game.py to play
 
 ## Controls
-Right-Click: Reveal a tile
+Left-Click: Reveal a tile
 
-Left-Click: Place down a berry to mark a potential bear trap
+Right-Click: Place down a berry to mark a potential bear trap
 
 ## Background Music
 
