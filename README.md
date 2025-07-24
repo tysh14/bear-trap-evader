@@ -21,3 +21,10 @@ Music promoted by Audio Library: https://youtu.be/lNT1EKSqI00
 ## Issues
 1. There's some delay when resetting the game, causing the background to stop moving.
 2. Traps are set randomly, so some guessing may be needed.
+
+## Other resources
+
+Super clear and helpful video to help me learn pygame basics: <br/>
+[The ultimate introduction to Pygame](https://youtu.be/AY9MnQ4x3zk?si=IcVWZPF0qyvFx_BU) by Clear Code
+
+[pixabay.com](https://pixabay.com/) for free sound effects
